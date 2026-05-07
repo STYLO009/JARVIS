@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d80e592c-7f9b-4b6a-803e-9a11131beb13" />
+
+
 # Jarvis AI Assistant
 
 A futuristic AI-powered virtual assistant inspired by Jarvis from Iron Man. This project combines voice interaction, AI responses, automation, and a modern UI experience using Python, Flask, HTML, CSS, and JavaScript.
