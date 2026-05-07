@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d80e592c-7f9b-4b6a-803e-9a11131beb13" />
+<img width="497" height="535" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/d86da90a-89f4-4c37-ba6d-1f77da13dd2d" />
 
 
 # Jarvis AI Assistant
