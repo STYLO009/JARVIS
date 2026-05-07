@@ -16,8 +16,8 @@ import vlc
 # =========================
 
 
-NEWS_API_KEY = "678c8ce1f8e948098c6c23ed82e96f60"
-WEATHER_API_KEY = "820466ff5d4c0f7bf2280236bb3762a8"
+NEWS_API_KEY = 
+WEATHER_API_KEY = 
 
 # =========================
 # TTS
