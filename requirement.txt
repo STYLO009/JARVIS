@@ -1,0 +1,9 @@
+SpeechRecognition
+requests
+pyttsx3
+pyjokes
+wikipedia
+ytmusicapi
+yt-dlp
+python-vlc
+pyaudio
